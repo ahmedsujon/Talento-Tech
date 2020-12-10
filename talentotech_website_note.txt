@@ -1,0 +1,17 @@
+required pages
+---------------
+home-2
+team-1
+blog, single-blog
+about us
+
+
+content
+--------
+1. tagline (with description)
+2. about content
+3. service content (web design, web development, wordpress)
+4. testimonial content
+5. article content
+6. terms of service
+7. privacy policy
